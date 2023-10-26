@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background:rgb(37,37,37);
+    background:rgb(37, 202, 166);
 }
 
 
@@ -13,7 +13,7 @@ h1{
     left:29%;
     top:45%;
     font-family: Arial,Helvetica,sans-serif;
-    color:rgb(251,255,6);
+    color:rgb(202, 37, 37);
 }
 ul{
     position:absolute;
